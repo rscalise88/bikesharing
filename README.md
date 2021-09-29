@@ -11,17 +11,20 @@ One outcome of this analysis shows that for all rides taken during the month of 
 
 
 Further analysis supports this theory.  If we review all rides to show the most popular starting and ending locations within NYC, we can see that the bulk of the riders use the same stations a majority of the time.  This would indicate that the rides are short distance and short time.
+
 ![Img2](https://github.com/rscalise88/bikesharing/blob/main/images/2.PNG)
 ![Img3](https://github.com/rscalise88/bikesharing/blob/main/images/3.PNG)
 
 
 Another interesting outcome of the analysis shows a clear pattern in ridership based on the day of the week.  Peak ridership during weekdays coincides heavily with use during the start and end of the traditional 8 hour workday.  However, on the weekends the ridership appears to be more evenly spread throughout the daylight hours, implying that the ridership could be more leisure-based, rather than being driven by a daily work commute.
+
 ![Img4](https://github.com/rscalise88/bikesharing/blob/main/images/4.PNG)
 
 
 Finally, we reviewed a number of both usertype and gender-based statistics. The habits of riders, whether Male, Female, or undefined/unknown genders, line up cleanly with the data from previous graphics, showing that there is no clear trend among rider habits based on gender.
 
 Further, the vast majority of the userbase are riderts who subscribe the service, and among those most of the users are male.  The data show that Most of the subscribers to Citi Bike are the ones driving the commute-based data points from the previous graphics.  Though not as pronounced, it appears that the leisure uses from the weekend use are more typically one-time customers, or otherwise those who choose not to subscribe to the service.
+
 ![Img5](https://github.com/rscalise88/bikesharing/blob/main/images/5.PNG)
 
 
